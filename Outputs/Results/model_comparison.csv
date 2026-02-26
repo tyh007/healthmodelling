@@ -1,0 +1,4 @@
+Model,AUC-ROC,Sensitivity,Specificity,F1 Score
+Logistic Regression,0.8773,0.875,0.7746,0.2593
+Random Forest,0.864,0.375,0.974,0.3871
+XGBoost,0.8492,0.3125,0.9855,0.3846

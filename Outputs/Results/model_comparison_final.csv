@@ -1,0 +1,6 @@
+Model,Threshold,AUC,Sensitivity,Specificity,F1
+Logistic Regression,0.5,0.877,0.875,0.775,0.259
+Random Forest,0.5,0.864,0.375,0.974,0.387
+RF (tuned),0.117,0.864,0.9375,0.65,0.197
+XGBoost,0.5,0.849,0.312,0.986,0.385
+XGBoost (tuned),0.02,0.849,1.0,0.5925,0.185

@@ -1,0 +1,11 @@
+Variable,Group,Q1,Q3,IQR,N_Outliers,Pct_Outliers
+Age,No Dementia,60.0,73.0,13.0,1,0.1
+Age,Dementia,60.0,73.0,13.0,0,0.0
+Executive Function (EF),No Dementia,-0.368,0.45,0.818,61,3.5
+Executive Function (EF),Dementia,-0.368,0.45,0.818,21,25.6
+Processing Speed (PS),No Dementia,-0.557,0.46,1.017,16,0.9
+Processing Speed (PS),Dementia,-0.557,0.46,1.017,11,13.4
+Global Cognition,No Dementia,-0.37,0.343,0.713,42,2.4
+Global Cognition,Dementia,-0.37,0.343,0.713,15,18.3
+Education (Years),No Dementia,9.0,13.0,4.0,5,0.3
+Education (Years),Dementia,9.0,13.0,4.0,0,0.0
