@@ -1,0 +1,16 @@
+Feature,Mean_Abs_SHAP,Group
+age,0.0751393403014883,Demographics
+gender,0.015875501024668226,Demographics
+educationyears,0.02650827203613791,Demographics
+EF,0.02642211720093096,Cognitive Function
+PS,0.04328806338386337,Cognitive Function
+Global,0.05045509342253811,Cognitive Function
+diabetes,0.012926535003246212,Lifestyle & Vascular Risk
+hypertension,0.030388742815097868,Lifestyle & Vascular Risk
+hypercholesterolemia,0.00766762390587236,Lifestyle & Vascular Risk
+smoking,0.03392176899369539,Lifestyle & Vascular Risk
+Fazekas,0.07932033490048844,SVD / MRI Markers
+lac_count,0.0432661684113305,SVD / MRI Markers
+CMB_count,0.01930395231814272,SVD / MRI Markers
+study1_rundmc,0.027369497055194522,Study Cohort
+study1_scans,0.006667399906984542,Study Cohort

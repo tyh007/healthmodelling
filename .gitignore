@@ -1,0 +1,15 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.portfolio-archive/
+
+# Patient-level source and generated datasets
+Data/*.csv
+Outputs/Results/dementia_clean.csv
+Outputs/Results/X_train_*.csv
+Outputs/Results/X_test_*.csv
+Outputs/Results/y_train.csv
+Outputs/Results/y_test.csv

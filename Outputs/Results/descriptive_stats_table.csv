@@ -1,0 +1,23 @@
+Variable,Type,Group,No Dementia (n=1726),Dementia (n=82),Test,p-value,Significance
+Age (years),Continuous,mean +/- sd,65.48 +/- 8.82,72.91 +/- 7.53,t-test,0.0000,***
+Education (years),Continuous,mean +/- sd,11.20 +/- 2.98,10.30 +/- 2.61,t-test,0.0073,**
+Executive Function (EF),Continuous,mean +/- sd,-0.02 +/- 0.75,-1.00 +/- 1.06,t-test,0.0000,***
+Processing Speed (PS),Continuous,mean +/- sd,-0.02 +/- 0.84,-1.08 +/- 1.00,t-test,0.0000,***
+Global Cognitive Score,Continuous,mean +/- sd,0.01 +/- 0.65,-0.89 +/- 0.73,t-test,0.0000,***
+Gender,Categorical,Male,810 (46.9%),49 (59.8%),Chi2 test,0.0308,*
+,Categorical,Female,916 (53.1%),33 (40.2%),,,
+Smoking,Categorical,Current,234 (13.6%),17 (20.7%),Chi2 test,0.0576,ns
+,Categorical,Ex-smoker,624 (36.2%),34 (41.5%),,,
+,Categorical,Never,857 (49.7%),31 (37.8%),,,
+Hypertension,Categorical,Yes,1146 (66.4%),69 (84.1%),Chi2 test,0.0013,**
+,Categorical,No,580 (33.6%),13 (15.9%),,,
+Hypercholesterolaemia,Categorical,Yes,1259 (72.9%),62 (75.6%),Chi2 test,0.6859,ns
+,Categorical,No,467 (27.1%),20 (24.4%),,,
+Diabetes,Categorical,No,1528 (88.5%),60 (73.2%),Chi2 test,0.0001,***
+,Categorical,Yes,198 (11.5%),22 (26.8%),,,
+Fazekas Category,Categorical,2-3,508 (29.4%),54 (65.9%),Chi2 test,0.0000,***
+,Categorical,0-1,1218 (70.6%),28 (34.1%),,,
+Lacunes,Categorical,>0,261 (15.1%),44 (53.7%),Chi2 test,0.0000,***
+,Categorical,Zero,1465 (84.9%),38 (46.3%),,,
+CMB Count,Categorical,>=1,164 (9.5%),28 (34.1%),Chi2 test,0.0000,***
+,Categorical,0,1562 (90.5%),54 (65.9%),,,

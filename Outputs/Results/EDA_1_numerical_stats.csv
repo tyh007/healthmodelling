@@ -1,0 +1,6 @@
+Variable,No_Dementia_Mean,No_Dementia_SD,No_Dementia_N,Dementia_Mean,Dementia_SD,Dementia_N,p_value,Significance
+Age,65.476,8.825,1726,72.907,7.535,82,0.0,***
+Executive Function (EF),-0.007,0.712,1726,-0.741,1.042,82,0.0,***
+Processing Speed (PS),-0.024,0.786,1726,-0.808,0.975,82,0.0,***
+Global Cognition,0.011,0.6,1726,-0.634,0.739,82,0.0,***
+Education (Years),11.204,2.976,1726,10.305,2.605,82,0.0073,**

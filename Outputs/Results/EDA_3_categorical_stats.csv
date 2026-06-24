@@ -1,0 +1,22 @@
+Variable,Category,N_Total,Pct_No_Dementia,Pct_Dementia,Chi2_p_value,Significance
+Hypertension,No,593,97.8,2.2,0.0013,**
+Hypertension,Yes,1215,94.3,5.7,0.0013,**
+Diabetes,No,1588,96.2,3.8,0.0001,***
+Diabetes,Yes,220,90.0,10.0,0.0001,***
+Hypercholesterolaemia,No,487,95.9,4.1,0.6859,ns
+Hypercholesterolaemia,Yes,1321,95.3,4.7,0.6859,ns
+Smoking Status,Never,888,96.5,3.5,0.0608,ns
+Smoking Status,Ex,669,94.9,5.1,0.0608,ns
+Smoking Status,Current,251,93.2,6.8,0.0608,ns
+Gender,Male,859,94.3,5.7,0.0308,*
+Gender,Female,949,96.5,3.5,0.0308,*
+Fazekas Score,0,197,98.5,1.5,0.0,***
+Fazekas Score,1,1049,97.6,2.4,0.0,***
+Fazekas Score,2,372,93.0,7.0,0.0,***
+Fazekas Score,3,190,85.3,14.7,0.0,***
+Lacune Count,Zero,1503,97.5,2.5,0.0,***
+Lacune Count,1-2,201,89.6,10.4,0.0,***
+Lacune Count,3-5,63,85.7,14.3,0.0,***
+Lacune Count,>5,41,65.9,34.1,0.0,***
+CMB Count,None,1616,96.7,3.3,0.0,***
+CMB Count,≥1,192,85.4,14.6,0.0,***
