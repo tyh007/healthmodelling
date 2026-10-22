@@ -13,3 +13,10 @@ Outputs/Results/X_train_*.csv
 Outputs/Results/X_test_*.csv
 Outputs/Results/y_train.csv
 Outputs/Results/y_test.csv
+
+# Also protect patient-level intermediates if a notebook is run from another cwd
+**/dementia_clean.csv
+**/X_train_*.csv
+**/X_test_*.csv
+**/y_train.csv
+**/y_test.csv

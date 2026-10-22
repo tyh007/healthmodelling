@@ -96,7 +96,14 @@ must not be used for diagnosis or treatment decisions.
 2. Download the
    [Dementia prediction dataset](https://www.kaggle.com/datasets/fatemehmehrparvar/dementia)
    and place `OPTIMAL_combined_3studies_6feb2020.csv` in `Data/`.
-3. Run the notebooks in order:
+3. Start Jupyter from `Notebooks/` so the relative input/output paths resolve correctly:
+
+   ```bash
+   cd Notebooks
+   jupyter notebook
+   ```
+
+   Run the notebooks in order:
 
    ```text
    1.Pre-processing.ipynb
@@ -104,6 +111,10 @@ must not be used for diagnosis or treatment decisions.
    3.SMOTE.ipynb
    4.models.ipynb
    ```
+
+The static prototype loads React, Babel and fonts from external CDNs; an internet connection is required. Its random-forest feature explanations use one-feature-at-a-time mean replacement, not SHAP values. The separate analysis notebooks include SHAP results.
+
+Notebook cell outputs are cleared for distribution; inspect the aggregate figures and tables under `Outputs/` for the retained results. The notebooks have not been re-executed as part of this cleanup because the source dataset is not bundled.
 
 Patient-level source and intermediate datasets are intentionally excluded from
 the public repository. Aggregate results, figures, and exported model
